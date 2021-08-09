@@ -1,0 +1,19 @@
+.card {
+    width: 25%;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .card-img {
+    width: 100%;
+  }
+  .card-information {
+    display: flex;
+    flex-direction: column;
+  }
+  .card-title {
+    margin: 0;
+    word-break: break-all;
+  }
+  
+  

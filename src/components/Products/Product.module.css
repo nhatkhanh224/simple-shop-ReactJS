@@ -1,0 +1,12 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10rem;
+  margin-left: 383px;
+}
+
+@media (min-width: 400px) and (max-width: 1023px) {
+  .cards {
+    margin-left: 11rem;
+  }
+}
